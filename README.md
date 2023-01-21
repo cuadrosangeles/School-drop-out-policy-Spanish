@@ -1,5 +1,5 @@
 # School-drop-out-policy-Spanish
-Design of a innovative public policy to prevent youth violence
+Design of a innovative public policy to prevent youth violence and school drop out in Peru
 
 + The policy's goal was to reduce dropping-out rates from schools in areas highly vulnerable to violence and crime in Peru. 
 + The pilot was implemented in Lima and Trujillo, two cities with the country's highest crime-related deaths.
